@@ -1,0 +1,41 @@
+﻿@model StudentManagement.Models.Student
+
+<h2>Edit Student</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(m => m.StudentId)
+
+    <p>
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name)
+    </p>
+
+    <p>
+        @Html.LabelFor(m => m.Email)
+        @Html.TextBoxFor(m => m.Email)
+    </p>
+
+    <p>
+        @Html.LabelFor(m => m.Age)
+        @Html.TextBoxFor(m => m.Age)
+    </p>
+
+    <p>
+        @Html.LabelFor(m => m.Password)
+        @Html.PasswordFor(m => m.Password)
+    </p>
+
+    <p>
+        Gender
+        @Html.RadioButtonFor(m => m.Gender, "Male") Male
+        @Html.RadioButtonFor(m => m.Gender, "Female") Female
+    </p>
+
+    <p>
+        Department Id
+        @Html.TextBoxFor(m => m.DepartmentId)
+    </p>
+
+    <input type="submit" value="Update" />
+}
