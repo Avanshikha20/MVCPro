@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|c:\\users\\singh\\downloads\\codefirstmvc\\codefirstmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|c:\\users\\singh\\downloads\\codefirstmvc\\codefirstmvc\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|solutionrelative:views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|c:\\users\\singh\\downloads\\codefirstmvc\\codefirstmvc\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|solutionrelative:views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|c:\\users\\singh\\downloads\\codefirstmvc\\codefirstmvc\\employeerepositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|solutionrelative:employeerepositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|c:\\users\\singh\\downloads\\codefirstmvc\\codefirstmvc\\employeerepositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|solutionrelative:employeerepositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|c:\\users\\singh\\downloads\\codefirstmvc\\codefirstmvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|c:\\users\\singh\\downloads\\codefirstmvc\\codefirstmvc\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|solutionrelative:views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|c:\\users\\singh\\downloads\\codefirstmvc\\codefirstmvc\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|solutionrelative:views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|c:\\users\\singh\\downloads\\codefirstmvc\\codefirstmvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|c:\\users\\singh\\downloads\\codefirstmvc\\codefirstmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|c:\\users\\singh\\downloads\\codefirstmvc\\codefirstmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|c:\\users\\singh\\downloads\\codefirstmvc\\codefirstmvc\\migrations\\20260310071411_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|solutionrelative:migrations\\20260310071411_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|c:\\users\\singh\\downloads\\codefirstmvc\\codefirstmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|c:\\users\\singh\\downloads\\codefirstmvc\\codefirstmvc\\context\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|solutionrelative:context\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|c:\\users\\singh\\downloads\\codefirstmvc\\codefirstmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|c:\\users\\singh\\downloads\\codefirstmvc\\codefirstmvc\\controllers\\actionresultdemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7B710-BF34-9E46-B38A-E63908EA8550}|CodeFirstMVC.csproj|solutionrelative:controllers\\actionresultdemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T11:05:00.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\EmployeeRepositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeRepositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\EmployeeRepositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeRepositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:45:57.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAzwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:15:51.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Details.cshtml",
+              "ToolTip": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T08:51:41.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\EmployeeRepositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeRepositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\EmployeeRepositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeRepositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:42:36.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T10:18:19.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T07:31:32.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T11:44:27.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAywB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T06:04:42.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T06:06:06.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T06:16:26.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260310071411_initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Migrations\\20260310071411_initialcreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260310071411_initialcreate.cs",
+              "ToolTip": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Migrations\\20260310071411_initialcreate.cs",
+              "RelativeToolTip": "Migrations\\20260310071411_initialcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T07:14:11.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T06:10:14.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Context\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "Context\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Context\\EmployeeContext.cs",
+              "RelativeToolTip": "Context\\EmployeeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T06:20:29.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T11:39:01.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ActionResultDemoController.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Controllers\\ActionResultDemoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ActionResultDemoController.cs",
+              "ToolTip": "C:\\Users\\singh\\Downloads\\CodeFirstMVC\\CodeFirstMVC\\Controllers\\ActionResultDemoController.cs",
+              "RelativeToolTip": "Controllers\\ActionResultDemoController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T05:55:28.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
