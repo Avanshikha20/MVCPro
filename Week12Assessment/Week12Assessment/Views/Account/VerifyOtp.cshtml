@@ -1,0 +1,27 @@
+﻿@if(TempData["OTP"] != null)
+{
+    <p style="color:green">
+        Demo OTP: @TempData["OTP"]
+    </p>
+}
+@model Week12Assessment.ViewModels.VerifyOtpViewModel
+
+<h2>OTP Verification</h2>
+
+@if (ViewBag.Error != null)
+{
+    <p style="color:red">@ViewBag.Error</p>
+}
+
+<form asp-action="VerifyOtp">
+
+    <div class="form-group">
+        <label>Enter OTP</label>
+        <input asp-for="OTP" class="form-control" />
+    </div>
+
+    <br />
+
+    <button class="btn btn-primary">Verify</button>
+
+</form>

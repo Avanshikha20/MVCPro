@@ -1,0 +1,49 @@
+﻿@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["Error"]
+    </div>
+}
+@model IEnumerable<Week12Assessment.Models.Department>
+
+<h2>Departments</h2>
+
+<a class="btn btn-primary mb-3" asp-action="Create">Add Department</a>
+
+<table class="table table-bordered">
+
+    <thead>
+        <tr>
+            <th>Department Name</th>
+            <th>Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.DepartmentName</td>
+                <td>@item.Description</td>
+
+                <td>
+                    <a class="btn btn-warning btn-sm"
+                       asp-action="Edit"
+                       asp-route-id="@item.DepartmentId">
+                        Edit
+                    </a>
+
+                    <a class="btn btn-danger btn-sm"
+                       asp-action="Delete"
+                       asp-route-id="@item.DepartmentId">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+
+</table>

@@ -1,0 +1,16 @@
+﻿@model Week12Assessment.Models.Course
+
+<h2>Delete Course</h2>
+
+<h4>Are you sure?</h4>
+
+<p>@Model.CourseName</p>
+
+<form asp-action="DeleteConfirmed">
+
+    <input type="hidden" asp-for="CourseId" />
+
+    <button class="btn btn-danger">Delete</button>
+    <a asp-action="Index">Cancel</a>
+
+</form>

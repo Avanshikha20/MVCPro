@@ -1,0 +1,100 @@
+/* Base font settings */
+html {
+    font-size: 14px;
+    scroll-behavior: smooth;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+/* Body styling */
+body {
+    margin-bottom: 60px;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    background: #f4f7fb;
+    color: #333;
+}
+
+/* Layout */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+/* Button styling */
+.btn {
+    border-radius: 6px;
+    transition: all 0.25s ease;
+}
+
+    .btn:hover {
+        transform: translateY(-2px);
+        opacity: 0.95;
+    }
+
+    /* Focus effect */
+    .btn:focus,
+    .btn:active:focus,
+    .btn-link.nav-link:focus,
+    .form-control:focus,
+    .form-check-input:focus {
+        box-shadow: 0 0 0 0.15rem rgba(37, 140, 251, 0.25);
+        border-color: #258cfb;
+    }
+
+/* Form styling */
+.form-control {
+    border-radius: 6px;
+    padding: 10px;
+    transition: all 0.2s ease;
+}
+
+    .form-control:focus {
+        border-color: #258cfb;
+        transform: scale(1.01);
+    }
+
+/* Floating labels */
+.form-floating > .form-control::placeholder,
+.form-floating > .form-control-plaintext::placeholder {
+    color: #6c757d;
+    text-align: end;
+}
+
+.form-floating > .form-control:focus::placeholder,
+.form-floating > .form-control-plaintext:focus::placeholder {
+    text-align: start;
+}
+
+/* Cards (for forms / tables) */
+.card {
+    border-radius: 10px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+    border: none;
+}
+
+/* Tables */
+table {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+/* Small animation for page elements */
+.fade-in {
+    animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(8px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
