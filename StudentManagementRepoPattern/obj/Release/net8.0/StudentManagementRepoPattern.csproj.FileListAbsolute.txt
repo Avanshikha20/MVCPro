@@ -1,0 +1,9 @@
+C:\Users\91995\Desktop\Desk\StudentManagementRepoPattern\obj\Release\net8.0\StudentManagementRepoPattern.csproj.AssemblyReference.cache
+C:\Users\91995\Desktop\Desk\StudentManagementRepoPattern\obj\Release\net8.0\rpswa.dswa.cache.json
+C:\Users\91995\Desktop\Desk\StudentManagementRepoPattern\obj\Release\net8.0\StudentManagementRepoPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\Desk\StudentManagementRepoPattern\obj\Release\net8.0\StudentManagementRepoPattern.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\Desk\StudentManagementRepoPattern\obj\Release\net8.0\StudentManagementRepoPattern.AssemblyInfo.cs
+C:\Users\91995\Desktop\Desk\StudentManagementRepoPattern\obj\Release\net8.0\StudentManagementRepoPattern.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\Desk\StudentManagementRepoPattern\obj\Release\net8.0\StudentManagementRepoPattern.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\91995\Desktop\Desk\StudentManagementRepoPattern\obj\Release\net8.0\StudentManagementRepoPattern.RazorAssemblyInfo.cache
+C:\Users\91995\Desktop\Desk\StudentManagementRepoPattern\obj\Release\net8.0\StudentManagementRepoPattern.RazorAssemblyInfo.cs

@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVCPro\\StudentManagementRepoPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\migrations\\20260311105711_initialcreat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:migrations\\20260311105711_initialcreat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\studentmanagementrepopattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:studentmanagementrepopattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\viewmodels\\departmentstudentcountvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:viewmodels\\departmentstudentcountvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\viewmodels\\dashboardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:viewmodels\\dashboardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|d:\\mvcpro\\studentmanagementrepopattern\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB521FDB-B9E9-CE7B-E680-B100B539CF17}|StudentManagementRepoPattern.csproj|solutionrelative:views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:17:58.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAzwCgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:12:08.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-11T11:08:28.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:04:10.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:22:19.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:23:32.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260311105711_initialcreat.cs",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\Migrations\\20260311105711_initialcreat.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260311105711_initialcreat.cs",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\Migrations\\20260311105711_initialcreat.cs",
+              "RelativeToolTip": "Migrations\\20260311105711_initialcreat.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:57:12.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentManagementRepoPattern.csproj",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\StudentManagementRepoPattern.csproj",
+              "RelativeDocumentMoniker": "StudentManagementRepoPattern.csproj",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\StudentManagementRepoPattern.csproj",
+              "RelativeToolTip": "StudentManagementRepoPattern.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T10:54:59.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T10:23:37.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:21:54.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:14:49.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:12:19.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:15:17.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DepartmentStudentCountVm.cs",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\ViewModels\\DepartmentStudentCountVm.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DepartmentStudentCountVm.cs",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\ViewModels\\DepartmentStudentCountVm.cs",
+              "RelativeToolTip": "ViewModels\\DepartmentStudentCountVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:14:46.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DashboardVm.cs",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\ViewModels\\DashboardVm.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DashboardVm.cs",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\ViewModels\\DashboardVm.cs",
+              "RelativeToolTip": "ViewModels\\DashboardVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:17:14.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfWorks\\UnitOfWork.cs",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeToolTip": "UnitOfWorks\\UnitOfWork.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA9wAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:17:01.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\UnitOfWorks\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfWorks\\IUnitOfWork.cs",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\UnitOfWorks\\IUnitOfWork.cs",
+              "RelativeToolTip": "UnitOfWorks\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:14:36.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IGenericRepository.cs",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:15:02.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:15:01.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:14:02.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:13:35.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:13:30.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\Data\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\StudentDbContext.cs",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\Data\\StudentDbContext.cs",
+              "RelativeToolTip": "Data\\StudentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:14:52.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MVCPro\\StudentManagementRepoPattern\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Department\\Create.cshtml",
+              "ToolTip": "D:\\MVCPro\\StudentManagementRepoPattern\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T10:21:26.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

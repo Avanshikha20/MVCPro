@@ -1,0 +1,26 @@
+﻿body {
+    background: #e8f4ff;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+form, .card {
+    background: white;
+    max-width: 380px;
+    margin: auto;
+    padding: 12px;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 4px;
+    margin-bottom: 8px;
+    border: 1px solid #bcdfff;
+}
+
+button, .btn {
+    background: #4da6ff;
+    color: white;
+    border: none;
+    padding: 3px 7px;
+}
