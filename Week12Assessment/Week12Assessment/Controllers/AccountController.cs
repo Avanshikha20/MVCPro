@@ -78,6 +78,11 @@ namespace Week12Assessment.Controllers
         }
         public IActionResult VerifyOtp()
         {
+            if (HttpContext.Session.GetString("OTP") != null)
+            {
+                TempData["OTP"] = HttpContext.Session.GetString("OTP");
+            }
+
             return View();
         }
         [HttpPost]
@@ -96,8 +101,11 @@ namespace Week12Assessment.Controllers
                     return RedirectToAction("Index", "StudentDashboard");
             }
 
-            ViewBag.Error = "Invalid OTP";
-            return View();
+            // OTP wrong
+            TempData["OTP"] = sessionOtp;   // show same OTP again
+            TempData["Error"] = "Invalid OTP. Please try again.";
+
+            return RedirectToAction("VerifyOtp");
         }
     }
 }

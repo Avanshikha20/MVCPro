@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\singh\\Desktop\\INCREMENTALPROJECT\\Week12Assessment\\Week12Assessment\\",
+  "WorkspaceRootPath": "D:\\MVCPro\\Week12Assessment\\Week12Assessment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0EFC23C-BFF3-7369-C52F-B99D9E2154FA}|Week12Assessment.csproj|c:\\users\\singh\\desktop\\incrementalproject\\week12assessment\\week12assessment\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{F0EFC23C-BFF3-7369-C52F-B99D9E2154FA}|Week12Assessment.csproj|d:\\mvcpro\\week12assessment\\week12assessment\\views\\account\\verifyotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0EFC23C-BFF3-7369-C52F-B99D9E2154FA}|Week12Assessment.csproj|solutionrelative:views\\account\\verifyotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0EFC23C-BFF3-7369-C52F-B99D9E2154FA}|Week12Assessment.csproj|d:\\mvcpro\\week12assessment\\week12assessment\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0EFC23C-BFF3-7369-C52F-B99D9E2154FA}|Week12Assessment.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0EFC23C-BFF3-7369-C52F-B99D9E2154FA}|Week12Assessment.csproj|d:\\mvcpro\\week12assessment\\week12assessment\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{F0EFC23C-BFF3-7369-C52F-B99D9E2154FA}|Week12Assessment.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "VerifyOtp.cshtml",
+              "DocumentMoniker": "D:\\MVCPro\\Week12Assessment\\Week12Assessment\\Views\\Account\\VerifyOtp.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\VerifyOtp.cshtml",
+              "ToolTip": "D:\\MVCPro\\Week12Assessment\\Week12Assessment\\Views\\Account\\VerifyOtp.cshtml",
+              "RelativeToolTip": "Views\\Account\\VerifyOtp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-15T06:12:56.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\MVCPro\\Week12Assessment\\Week12Assessment\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\MVCPro\\Week12Assessment\\Week12Assessment\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAUwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T05:54:02.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\singh\\Desktop\\INCREMENTALPROJECT\\Week12Assessment\\Week12Assessment\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "D:\\MVCPro\\Week12Assessment\\Week12Assessment\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\singh\\Desktop\\INCREMENTALPROJECT\\Week12Assessment\\Week12Assessment\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\MVCPro\\Week12Assessment\\Week12Assessment\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-03-14T19:53:10.578Z",
               "EditorCaption": ""

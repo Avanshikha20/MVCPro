@@ -1,8 +1,15 @@
-﻿@if(TempData["OTP"] != null)
+﻿@if (TempData["OTP"] != null)
 {
-    <p style="color:green">
-        Demo OTP: @TempData["OTP"]
-    </p>
+    <div class="alert alert-success">
+        OTP: @TempData["OTP"]
+    </div>
+}
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["Error"]
+    </div>
 }
 @model Week12Assessment.ViewModels.VerifyOtpViewModel
 

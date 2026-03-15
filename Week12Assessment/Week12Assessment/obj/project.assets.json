@@ -3089,11 +3089,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\singh\\Desktop\\INCREMENTALPROJECT\\Week12Assessment\\Week12Assessment\\Week12Assessment.csproj",
+      "projectUniqueName": "D:\\MVCPro\\Week12Assessment\\Week12Assessment\\Week12Assessment.csproj",
       "projectName": "Week12Assessment",
-      "projectPath": "C:\\Users\\singh\\Desktop\\INCREMENTALPROJECT\\Week12Assessment\\Week12Assessment\\Week12Assessment.csproj",
+      "projectPath": "D:\\MVCPro\\Week12Assessment\\Week12Assessment\\Week12Assessment.csproj",
       "packagesPath": "C:\\Users\\singh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\singh\\Desktop\\INCREMENTALPROJECT\\Week12Assessment\\Week12Assessment\\obj\\",
+      "outputPath": "D:\\MVCPro\\Week12Assessment\\Week12Assessment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
